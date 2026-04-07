@@ -36,7 +36,7 @@ Space Conquest Online est une application mobile de jeu stratégique développé
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone <url-du-depot>
+   git clone https://github.com/Luuxio/DevMobile-B3-VAYRIOT-Bastien
    cd my-app
    ```
 
